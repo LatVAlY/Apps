@@ -1,0 +1,122 @@
+{
+  "project_info": {
+    "project_number": "826895860544",
+    "firebase_url": "https://e-commerce-f9de5.firebaseio.com",
+    "project_id": "e-commerce-f9de5",
+    "storage_bucket": "e-commerce-f9de5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:826895860544:android:6bff2c144930502346f0a5",
+        "android_client_info": {
+          "package_name": "com.example.ecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "826895860544-8fe8ht3tkmpu7ev22s1ol2ct8h714aoa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ecommerce",
+            "certificate_hash": "a818f54195d73b3fc7165d00af9812d133b70c02"
+          }
+        },
+        {
+          "client_id": "826895860544-9tk11a3a67694lf7cgmg1i4irnj0mu0e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5roIIiApq8vCBEXY32X0p_bAsuNqTELw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "826895860544-9tk11a3a67694lf7cgmg1i4irnj0mu0e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:826895860544:android:f71b20404ce1776946f0a5",
+        "android_client_info": {
+          "package_name": "com.example.mediten"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "826895860544-r6japnpkmpajgdc2nsam3pej9hj36e8g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mediten",
+            "certificate_hash": "ef1032cec560640a4f4ee4bb1970fe911482d724"
+          }
+        },
+        {
+          "client_id": "826895860544-9tk11a3a67694lf7cgmg1i4irnj0mu0e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5roIIiApq8vCBEXY32X0p_bAsuNqTELw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "826895860544-9tk11a3a67694lf7cgmg1i4irnj0mu0e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:826895860544:android:277ded0ece1ed19d46f0a5",
+        "android_client_info": {
+          "package_name": "com.example.meditena"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "826895860544-s2ms75u2vp4tbljemm94g7a5ifkljs3g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.meditena",
+            "certificate_hash": "ef1032cec560640a4f4ee4bb1970fe911482d724"
+          }
+        },
+        {
+          "client_id": "826895860544-9tk11a3a67694lf7cgmg1i4irnj0mu0e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5roIIiApq8vCBEXY32X0p_bAsuNqTELw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "826895860544-9tk11a3a67694lf7cgmg1i4irnj0mu0e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
